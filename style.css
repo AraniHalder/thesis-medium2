@@ -450,14 +450,135 @@ body{
 }
 
 
-#image1{
-	position: absolute;
-	z-index: 999;
-	top:25vh;
-	left:19vw;
-	opacity: 0
-}
+			#image1{
+				position: absolute;
+				z-index: 999;
+				top:28vh;
+				left:18vw;
+				opacity: 0;
+			}
+			
+			#image2{
+				position: absolute;
+				z-index: 999;
+				top:25vh;
+				left:28.2vw;
+				opacity: 0;
+			}
+			
+			#image3{
+				position: absolute;
+				z-index: 999;
+				top:29.7vh;
+				left:31.6vw;
+				opacity: 0;
+			}
+			
+			#image4{
+				position: absolute;
+				z-index: 999;
+				top:-2.1vh;
+				left:18.8vw;
+				opacity: 0;
+			}
+			
+			#image5{
+				position: absolute;
+				z-index: 999;
+				top:34.3vh;
+				left:17.5vw;
+				transform-origin: 0 0 0;
+				display: flex;
+				opacity: 0;
+			}
+			
+			#image6{
+				position: absolute;
+				z-index: 999;
+				top:-1.7vh;
+				left:33.5vw;
+				opacity: 0;
+			}
 
+			#image7{
+				position: absolute;
+				z-index: 999;
+				top:-2.3vh;
+				left:38vw;
+				opacity: 0;
+			}
+
+			#image8{
+				position: absolute;
+				z-index: 999;
+				top:6vh;
+				left:3.7vw;
+				opacity: 0;
+			}
+
+			#image9{
+				position: absolute;
+				z-index: 999;
+				top:-2.2vh;
+				left:25.1vw;
+				opacity: 0;
+			}
+
+			#image10{
+				position: absolute;
+				z-index: 999;
+				top:5.4vh;
+				left:8.2vw;
+				opacity: 0;
+			}
+
+			#image11{
+				position: absolute;
+				z-index: 999;
+				top:19vh;
+				left:8.3vw;
+				opacity: 0;
+			}
+
+			#image12{
+				position: absolute;
+				z-index: 999;
+				top:7.2vh;
+				left:42.5vw;
+				opacity: 0;
+			}
+
+			#image13{
+				position: absolute;
+				z-index: 999;
+				top:22.8vh;
+				left:45.8vw;
+				opacity: 0;
+			}
+
+			#image14{
+				position: absolute;
+				z-index: 999;
+				top:26.5vh;
+				left:3.7vw;
+				opacity: 0;
+			}
+
+			#image15{
+				position: absolute;
+				z-index: 999;
+				top:31.4vh;
+				left:43.5vw;
+				opacity: 0;
+			}
+
+			#image16{
+				position: absolute;
+				z-index: 999;
+				top:1.4vh;
+				left:42.7vw;
+				opacity: 0;
+			}
 
 #aline1{
 	margin-left: 15vw;
@@ -479,3 +600,154 @@ body{
 	border-radius: 15px;
 }
 
+#aaline1{
+	left: 85.6vw;
+	margin-top: 25.5vh;
+	border-top: 3px solid white;
+	width: 0vw;
+	z-index: 999;
+	position: absolute;
+	border-radius: 15px;
+}
+
+#aaline2{
+	margin-left: 65.3vw;
+	top: 86.5vh;
+	border-left: 3px solid white;
+	height: 0vh;
+	z-index: 999;
+	position: absolute;
+	border-radius: 15px;
+}
+
+#aaline3{
+	margin-left: 70.3vw;
+	top: 86.5vh;
+	border-left: 3px solid white;
+	height: 0vh;
+	z-index: 999;
+	position: absolute;
+	border-radius: 15px;
+}
+
+#kaline1{
+	margin-left: 15vw;
+	margin-top: 37.7vh;
+	border-top: 3px solid white;
+	width: 0vw;
+	z-index: 999;
+	position: absolute;
+	border-radius: 15px;
+}
+
+#kaline2{
+	margin-left: 45.15vw;
+	top: 86.3vh;
+	border-left: 3px solid white;
+	height: 0vh;
+	z-index: 999;
+	position: absolute;
+	border-radius: 15px;
+}
+
+
+#kaline1{
+	margin-left: 15vw;
+	margin-top: 37.7vh;
+	border-top: 3px solid white;
+	width: 0vw;
+	z-index: 999;
+	position: absolute;
+	border-radius: 15px;
+}
+
+
+#iline1{
+	margin-left: 15vw;
+	margin-top: 37.7vh;
+	border-top: 3px solid white;
+	width: 0vw;
+	z-index: 999;
+	position: absolute;
+	border-radius: 15px;
+}
+
+#iiline1{
+	margin-left: 15vw;
+	margin-top: 37.7vh;
+	border-top: 3px solid white;
+	width: 0vw;
+	z-index: 999;
+	position: absolute;
+	border-radius: 15px;
+}
+
+#uline1{
+	margin-left: 15vw;
+	margin-top: 49.7vh;
+	border-top: 3px solid white;
+	width: 0vw;
+	z-index: 999;
+	position: absolute;
+	border-radius: 15px;
+}
+
+#uuline1{
+	left: 85.6vw;
+	margin-top: 37.7vh;
+	border-top: 3px solid white;
+	width: 0vw;
+	z-index: 999;
+	position: absolute;
+	border-radius: 15px;
+}
+
+#chaline1{
+	left: 85.6vw;
+	margin-top: 37.7vh;
+	border-top: 3px solid white;
+	width: 0vw;
+	z-index: 999;
+	position: absolute;
+	border-radius: 15px;
+}
+
+#yaline1{
+	left: 85.6vw;
+	margin-top: 49.7vh;
+	border-top: 3px solid white;
+	width: 0vw;
+	z-index: 999;
+	position: absolute;
+	border-radius: 15px;
+}
+
+#yaline2{
+	margin-left: 75.4vw;
+	top: 86.3vh;
+	border-left: 3px solid white;
+	height: 0vh;
+	z-index: 999;
+	position: absolute;
+	border-radius: 15px;
+}
+
+#shaline1{
+	left: 85.6vw;
+	margin-top: 25.5vh;
+	border-top: 3px solid white;
+	width: 0vw;
+	z-index: 999;
+	position: absolute;
+	border-radius: 15px;
+}
+
+#shaline2{
+	margin-left: 75.4vw;
+	top: 86.3vh;
+	border-left: 3px solid white;
+	height: 0vh;
+	z-index: 999;
+	position: absolute;
+	border-radius: 15px;
+}
